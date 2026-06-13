@@ -1,5 +1,10 @@
 # C++ Module 00 — Namespaces, Classes, Member Functions & More
 
+![Language](https://img.shields.io/badge/language-C++-blue)
+![Score](https://img.shields.io/badge/score-100%2F100-brightgreen)
+![Status](https://img.shields.io/badge/status-complete-success)
+![42](https://img.shields.io/badge/42-Common%20Core-black)
+
 *This project has been created as part of the 42 curriculum by ilnassi*
 
 ---
